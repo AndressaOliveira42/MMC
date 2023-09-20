@@ -1,0 +1,57 @@
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DESKTOP-PQIO67J
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+
+Adaptador Ethernet Ethernet:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereáo F°sico . . . . . . . . . . . . . . : D0-94-66-B9-8B-71
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o Local* 1:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : 5C-CD-5B-19-65-7D
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o Local* 2:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereáo F°sico . . . . . . . . . . . . . . : 5E-CD-5B-19-65-7C
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Intel(R) Wireless-AC 9560 160MHz
+   Endereáo F°sico . . . . . . . . . . . . . . : 5C-CD-5B-19-65-7C
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 . . . . . . . . . . : 2804:1264:cb00:300:8621:2db4:f1a8:6917(Preferencial) 
+   Endereáo IPv6 Tempor†rio. . . . . . . . : 2804:1264:cb00:300:d168:8d18:bb14:27d0(Preterido) 
+   Endereáo IPv6 de link local . . . . . . . . : fe80::ecbe:24bc:b690:743c%3(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.1.144(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : teráa-feira, 19 de setembro de 2023 20:19:02
+   Concess∆o Expira. . . . . . . . . . . . . . : teráa-feira, 19 de setembro de 2023 22:18:53
+   Gateway Padr∆o. . . . . . . . . . . . . . . : fe80::c225:2fff:fe45:83e2%3
+                                                 192.168.1.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.1.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 56413531
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2A-63-CE-CD-D0-94-66-B9-8B-71
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.1.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
